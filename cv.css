@@ -1,0 +1,66 @@
+body{
+	background-image: url(div.jpg);
+	background-size: cover;
+    font-family: 'Dancing Script', cursive;
+	text-align: center;
+}
+header,section,footer{
+	display: flex;
+	justify-content: space-around;
+}
+h1{
+	font-size: 55px;
+	position: relative;
+	top: 90px;
+	left: 75px;
+}
+h2{
+	text-decoration: underline;
+}
+.bm{
+	text-align: right;
+	font-size: 20px;
+	position: relative;
+	top: 240px;
+}
+figure{
+	position: relative;
+	right: 75px;
+	top: 70px;
+}
+img{
+	width: 275px;
+	height: 275px;
+}
+section{
+	margin-top: 70px;
+}
+p,li{
+	font-size: 24px;
+}
+li{
+	margin-top: 26px;
+}
+.cg{
+	position: relative;
+	left: 70px;
+}
+.cd{
+	position: relative;
+	right: 70px;
+}
+footer{
+	margin-top: 5px;
+}
+.cbg{
+	position: relative;
+	left: 69px;
+}
+.cbd{
+	position: relative;
+	right: 95px;
+}
+.copy{
+	margin-top: 150px;
+	font-size: 18px;
+}
